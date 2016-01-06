@@ -22,7 +22,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src=".\src\Fay.Logging.EntLib5\bin\Release\Fay.Logging.NLog4.dll" target="lib\net45" />
-    <file src=".\src\Fay.Logging.EntLib5\bin\Release\Fay.Logging.NLog4.XML" target="lib\net45" />
+    <file src=".\src\Fay.Logging.NLog4\bin\Release\Fay.Logging.NLog4.dll" target="lib\net45" />
+    <file src=".\src\Fay.Logging.NLog4\bin\Release\Fay.Logging.NLog4.XML" target="lib\net45" />
   </files>
 </package>
