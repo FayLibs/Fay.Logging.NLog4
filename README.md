@@ -32,3 +32,9 @@ Below is a simplified example for logging. A more robust implementation may use 
 
 [FayLog]:  https://github.com/FayLibs/Fay.Logging
 [NLog]: https://github.com/NLog/NLog
+
+## Downloads
+
+Fey Logging is available via NuGet:
+
+- [Fay Logging NLog4] (https://www.nuget.org/packages/Fay.Logging.NLog4/)
